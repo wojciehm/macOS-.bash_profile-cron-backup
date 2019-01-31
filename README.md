@@ -9,5 +9,6 @@
 4. We commit all files with comment from script execution time  ` date +'%Y-%m-%d %H:%M:%S'`"; `  
 
 `git commit -a -m "generated files on `date +'%Y-%m-%d %H:%M:%S'`";`
+
 5. And at the very end we push to GitHub.
 `git push origin master`
